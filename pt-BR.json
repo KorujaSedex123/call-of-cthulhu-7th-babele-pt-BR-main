@@ -499,7 +499,7 @@
 "SETTINGS.TenDieBonus": "[DsN] Cor de Dado Bônus de Dezenas",
 "SETTINGS.TenDieBonusHint": "Quando usar DsN, escolha a cor do dado bônus de dezenas. (deixe vazio para usar o padrão do jogador)",
 "SETTINGS.TenDiePenalty": "[DsN] Cor de Dado de Penalidade de Dezenas",
-"SETTINGS.TenDiePenaltyHint": "Quando usar DsN, escolha a cor do dado de penalidade de dezenas. (deixe vazio para usar o padrão do jogador)"
+"SETTINGS.TenDiePenaltyHint": "Quando usar DsN, escolha a cor do dado de penalidade de dezenas. (deixe vazio para usar o padrão do jogador)",
 "SETTINGS.OverrideSheetArtwork": "Trocar Arte da Ficha",
 "SETTINGS.OverrideSheetArtworkHint": "!!NECESSÁRIO REINICIAR!! dá acesso às configurações avançadas da ficha. Deixe vazio para padrão",
 "SETTINGS.ArtWorkSheetBackground": "Background da Ficha",
